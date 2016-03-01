@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi humans! im just starting using git is anyone see this >.< this look a little complicate.
